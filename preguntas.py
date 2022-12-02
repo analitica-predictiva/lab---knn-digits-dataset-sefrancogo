@@ -30,7 +30,7 @@ def pregunta_01():
 
 def pregunta_02():
     """
-    Complete el código presentado a continuación.
+    Complete el código presentado a continuación. 
     """
     # Importe KNeighborsClassifier de sklearn.neighbors
     from sklearn.neighbors import KNeighborsClassifier
